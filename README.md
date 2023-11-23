@@ -51,7 +51,7 @@ public class Profile {
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,js)](https://skillicons.dev)
 
 </div>
 
