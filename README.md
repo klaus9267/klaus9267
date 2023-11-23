@@ -66,32 +66,7 @@ public class Profile {
 ---
 ### 📊 Github Stats
 
-<details>
-<summary>Expand</summary>
-
-<table><tr><td valign="top" width="50%">
-
-<br>
-
-<img src="./assets/metrics.plugin.overview.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
-
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.activity.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.stargazers.svg" >
-
-</td></tr></table>
-
-</details>
+[![GitHub Streak](https://streak-stats.demolab.com?user=klaus9267)](https://git.io/streak-stats)
 
 ---
 
