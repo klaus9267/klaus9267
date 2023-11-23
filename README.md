@@ -15,9 +15,8 @@
 
 ```Java
 public class Profile {
-    public String name = "Vedant Chainani";
-    public String pronouns = "He | Him";
-    public String currentFocus = "Web3 / dApps";
+    public String name = "Kim Minho";
+    public String currentFocus = "Spring boot / Database";
 
     private String[] skills;
 
