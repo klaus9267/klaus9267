@@ -15,27 +15,28 @@
 
 ```Java
 public class Profile {
-    string public name = "Vedant Chainani";
-    string public pronouns = "He | Him";
-    string public currentFocus = "Web3 / dApps";
+    public String name = "Vedant Chainani";
+    public String pronouns = "He | Him";
+    public String currentFocus = "Web3 / dApps";
 
-    string[] internal skills;
+    private String[] skills;
 
-    function getSkills() public returns (string[] memory) {
-        skills = [
-            string("Javascript"),
-            "Python",
-            "Solidity",
-            "Hardhat",
-            "ethers"
-        ];
+    public String[] getSkills() {
+        skills = new String[]{
+                "Java",
+                "Spring boot",
+                "Javascript",
+                "Typescript",
+                "NestJS",
+                "MariaDB",
+                "AWS",
+                "Docker",
+                "Nginx",
+                "Github Action",
+                "ethers"
+        };
 
         return skills;
-    }
-
-    function fun() public view returns (string memory) {
-        return
-            "Two bytes meet.  The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'";
     }
 }
 
