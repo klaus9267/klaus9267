@@ -47,12 +47,6 @@ public class Profile {
 
 <div align="center">
 
-## 🤹 My Skill Set
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,js,ts,mysql,aws,githubactions,docker,nginx)](https://skillicons.dev)
-
 </div>
 
 <br>
