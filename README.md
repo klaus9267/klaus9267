@@ -7,8 +7,6 @@
 - 🥅 2023 Goals: Learn more about Sprng boot and Database
 - ⚡ Fun fact: I love to Climbing
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
