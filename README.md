@@ -1,7 +1,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/klaus9267/count.svg)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/klaus9267?pet-id=625019788851922675" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/klaus9267"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## About Me...
