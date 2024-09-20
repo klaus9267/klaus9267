@@ -4,7 +4,7 @@
 
 - 🔗 I’m currently learning Backend
 - 👐 I’m looking to contribute to open source
-- 🥅 2023 Goals: Learn more about Sprng boot and Database
+- 🥅 2024 Goals: Learn more about Sprng boot and Database
 - ⚡ Fun fact: I love to Climbing
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
