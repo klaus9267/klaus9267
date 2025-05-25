@@ -2,7 +2,6 @@
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/55784772/121879227-915b8b80-cd47-11eb-9aa4-c14885dcffad.gif">
 
 <br><br><br>
-- 😎 [Resume](https://drive.google.com/file/d/1WU-CU2gPaD-PUvF0G_lw8qn7kXbaxiRX/view?usp=sharing)
 - 🌱 I'm currently learning **SpringBoot, Java, Kotlin**
 - 📝 I regularly write articles on [https://klaus9267.tistory.com](https://klaus9267.tistory.com)
 - 📫 Feel free to reach me on **klaus9267@gmail.com**
