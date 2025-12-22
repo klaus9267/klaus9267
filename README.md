@@ -50,10 +50,8 @@
 ### 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klaus9267&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klaus9267&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klaus9267&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klaus9267&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klaus9267&theme=tokyonight&utcOffset=9)
 
 ### 방문자 수
 
